@@ -8,6 +8,7 @@ Este proyecto es una API en .NET diseñada para la gestión de información de e
 - ASP.NET Core Web API
 - Newtonsoft.Json
 - HttpClient
+- Angular: https://github.com/neydarisJaylinne/AngularWebApi
 
 ## Estructura del Proyecto
 ```
